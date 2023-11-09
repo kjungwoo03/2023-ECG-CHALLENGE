@@ -1,1 +1,4 @@
-
+**2023 Yonsei Medical Convergence Challenge**
+Yonsei Medical Convergence Challenge (2023.01.30. ~ 2023.01.31.)
+held by The Medical Scientist Training Program(Undergraduate Course), Yonsei Medical Scientest Trainging Probram
+Won an Award for Excellence (with ChangeDae Lee, Hyelim Kim, YoungJun Na)
